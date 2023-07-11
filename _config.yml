@@ -1,7 +1,7 @@
-name: PixelBoot
-description: OpenSource Development by PixelBoot
-repository: PixelBoot/pixelboot.github.io
-url: http://pixelboot.github.io
+name: KernelPanix
+description: OpenSource Development by KernelPanix
+repository: dopaemon/dopaemon.github.io
+url: http://dopaemon.github.io
 baseurl: ""
 
 defaults:
