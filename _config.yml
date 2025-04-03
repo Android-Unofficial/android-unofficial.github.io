@@ -1,7 +1,7 @@
-name: KernelPanix
-description: OpenSource Development by KernelPanix
-repository: dopaemon/dopaemon.github.io
-url: http://dopaemon.github.io
+name: Android-Unofficial
+description: Android Unofficial by KernelPanix
+repository: Android-Unofficial/Android-Unofficial.github.io
+url: http://android-unofficial.github.io
 baseurl: ""
 
 defaults:
