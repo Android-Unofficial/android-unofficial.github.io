@@ -5,7 +5,7 @@ title: Derpfest for Xiaomi 12
 
 <div class="jumbotron">
 	<div class="container">
-		<img src="https://camo.githubusercontent.com/09c404ef904f3810f2d8a1cbd9e1413b38644825c1746d4057afbf143c79cc61/68747470733a2f2f7261772e6769746875622e636f6d2f44657270466573742d414f53502f6d616e69666573742f31332f646572702e706e67" class="img-fluid heading" />
+		<img src="./../../assets/img/derpfest.jpg" class="img-fluid heading" />
 		<br />
 		<h1 class="heading">Derpfest For Xiaomi 12</h1>
 		<a href="https://sourceforge.net/projects/android-unofficial" class="btn btn-primary"><i class="material-icons">open_in_new</i> SourceForge</a>
@@ -30,4 +30,5 @@ title: Derpfest for Xiaomi 12
 			<br />
 		</div>
 	</div>
+
 </div>
